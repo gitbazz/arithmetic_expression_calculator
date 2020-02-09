@@ -1,0 +1,38 @@
+Script started on 2019-10-23 17:00:19-04:00
+0;bzargar@compute:~/Tmp/CS2211a/Asn/asn3[bzargar@compute asn3]$ pwd
+/home/bzargar/Tmp/CS2211a/Asn/asn3
+0;bzargar@compute:~/Tmp/CS2211a/Asn/asn3[bzargar@compute asn3]$ date
+Wed Oct 23 17:00:36 EDT 2019
+0;bzargar@compute:~/Tmp/CS2211a/Asn/asn3[bzargar@compute asn3]$ who am i
+bzargar  pts/12       2019-10-23 17:00
+0;bzargar@compute:~/Tmp/CS2211a/Asn/asn3[bzargar@compute asn3]$ ./evaluate
+Input a simple arithmetic expresion: 5
+ The result is 5.000000
+Do you want to continue? Y/N
+y
+Input a simple arithmetic expresion: 3 * 4
+ The result is 12.000000
+Do you want to continue? Y/N
+y
+Input a simple arithmetic expresion: 4 + 3
+ The result is 7.000000
+Do you want to continue? Y/N
+y
+Input a simple arithmetic expresion: 2.6 / 2 - 1.5 * 10
+ The result is -13.700000
+Do you want to continue? Y/N
+y
+Input a simple arithmetic expresion: -2.0 * 2 + 1.5 * 10 - 100
+ The result is -89.000000
+Do you want to continue? Y/N
+y
+Input a simple arithmetic expresion: 3.5 - -1.5 * 10/3.0 + 2 * 3
+ The result is 14.500000
+Do you want to continue? Y/N
+y
+Input a simple arithmetic expresion: 3.5 - 1.5 % 10 - 20
+That is an invalid operator
+0;bzargar@compute:~/Tmp/CS2211a/Asn/asn3[bzargar@compute asn3]$ exit
+exit
+
+Script done on 2019-10-23 17:02:45-04:00
